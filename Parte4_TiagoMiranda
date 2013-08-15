@@ -1,1 +1,2 @@
 Então, o ideal agora é por a mão na massa. Para usar o Mercurial, obviamente, a primeira coisa que você precisa fazer consiste em instalá-lo em seu computador. No site oficial você poderá encontrar uma instalação para o seu sistema operacional. Dado que é feito em Python, há versões para todos (ou quase) os sistemas operacionais que oferecem suporte a esta linguagem.
+Instalado o mercurial, podemos começar a trabalhar com o bicho. Para criar um repositório em sua máquina, na interface de linha de comando do seu sistema operacional, digite o comando
